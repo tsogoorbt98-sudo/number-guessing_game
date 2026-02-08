@@ -31,10 +31,6 @@ def main():
     if not won:
         # Inform the user that they ran out of guesses
         print("You ran out of guesses. The number was:", random_number)
-# main()
-# try_again = input("Do you want to play again? (y/n): ")
-# if try_again.lower() == "y":
-#     main()
 
 # Run the game
 while True:
